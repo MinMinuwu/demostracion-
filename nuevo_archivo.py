@@ -1,2 +1,4 @@
-if __name__ =='main':
-    print("hola mundo")
+a=1
+while a < 10 
+    print a
+    a + 1
